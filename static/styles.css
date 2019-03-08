@@ -99,6 +99,10 @@ a:hover {
   z-index: 2;
 }
 
+.wf-app-media {
+  margin-top: -15px;
+}
+
 .wf-app-content {
   max-width: 320px;
 }
